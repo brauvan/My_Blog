@@ -14,4 +14,9 @@ Master 2.
 
 Exp 1.
 
+<<<<<<< HEAD
 Exp 2.
+=======
+Exp 2.
+
+>>>>>>> 5a7cf87 (Exp_2)
